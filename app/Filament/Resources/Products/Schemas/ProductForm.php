@@ -2,6 +2,7 @@
 
 namespace App\Filament\Resources\Products\Schemas;
 
+use App\Filament\Components\CloudinaryFileUpload;
 use Filament\Forms\Components\Select;
 use Filament\Forms\Components\TagsInput;
 use Filament\Forms\Components\Textarea;
@@ -34,7 +35,9 @@ class ProductForm
                 Textarea::make('description_ur')->label('Description (Urdu)')->rows(6)->columnSpanFull(),
                 TagsInput::make('benefits')->separator(',')->columnSpanFull(),
                 TagsInput::make('how_to_use')->label('How to use')->separator(',')->columnSpanFull(),
-                TagsInput::make('images')->label('Photo URLs')->separator(',')->columnSpanFull(),
+                CloudinaryFileUpload::make('images', 'products', multiple: true)
+                    ->label('Product photos')
+                    ->columnSpanFull(),
                 TextInput::make('seo_description')->maxLength(320)->columnSpanFull(),
                 Toggle::make('is_featured')->default(false),
             ]);

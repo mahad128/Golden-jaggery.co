@@ -2,6 +2,7 @@
 
 namespace App\Filament\Resources\BlogPosts\Schemas;
 
+use App\Filament\Components\CloudinaryFileUpload;
 use Filament\Forms\Components\DateTimePicker;
 use Filament\Forms\Components\RichEditor;
 use Filament\Forms\Components\Select;
@@ -20,7 +21,7 @@ class BlogPostForm
                 TextInput::make('title_ur')->label('Title (Urdu)')->maxLength(180),
                 TextInput::make('slug')->required()->unique(ignoreRecord: true)->maxLength(200),
                 Select::make('category')->options(['Recipes' => 'Recipes', 'Farm stories' => 'Farm stories', 'Guides' => 'Guides'])->required(),
-                TextInput::make('image')->url()->maxLength(2048),
+                CloudinaryFileUpload::make('image', 'blog')->label('Cover image'),
                 Textarea::make('excerpt')->required()->rows(3)->columnSpanFull(),
                 RichEditor::make('body')->required()->columnSpanFull(),
                 Toggle::make('is_published')->live(),

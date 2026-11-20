@@ -34,6 +34,7 @@ A Laravel e-commerce starter for family-made gur, jaggery and shakkar. The store
 - Set `BRAND_LOCATION`, `BRAND_PHONE`, `BRAND_EMAIL` and `BRAND_WHATSAPP_NUMBER` in `.env`. Use an international phone format for WhatsApp, digits only (for example `923001234567`).
 - Edit public contact details, homepage copy, brand name and tagline in **Content → Site settings**. Update the brand colors in `config/golden-jaggery.php` and `resources/css/app.css`.
 - Replace sample prices, stock counts, photos and product text in **Catalog → Products**. A product’s variant relation contains SKU, pack size, PKR price, wholesale price and stock.
+- Product and blog cover images can be uploaded from Filament to Cloudinary. Set `CLOUDINARY_CLOUD_NAME`, `CLOUDINARY_API_KEY` and `CLOUDINARY_API_SECRET` in `.env` and your production host; never commit their values.
 - The seed catalog uses replaceable local SVG illustrations in `public/images/`. Replace these with product photos you own and host on your own storage/CDN before launch.
 - The seed catalog's prices, inventory, blog articles and inactive shipping amounts are demonstration data, not business quotes. Verify all pricing, product ingredients, allergen details, claims, availability and destination rates before launch.
 - Add country-wise international rates and Pakistan city or country-wide rates in the Filament **Shipping rates** resource. Activate only destinations you can serve.
