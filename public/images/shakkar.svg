@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Illustration of golden shakkar crystals</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff9eb"/><stop offset="1" stop-color="#d9c18e"/></linearGradient><linearGradient id="crystal" x2="1" y2="1"><stop stop-color="#f3d48c"/><stop offset="1" stop-color="#bc792d"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="16"/></filter></defs>
+  <rect width="900" height="700" fill="url(#bg)"/><ellipse cx="450" cy="558" rx="270" ry="42" fill="#795321" opacity=".25" filter="url(#shadow)"/>
+  <path d="M198 440c25-98 119-169 252-169s227 71 252 169c-80 84-170 119-252 119s-172-35-252-119Z" fill="#fff4dd" stroke="#c4a873" stroke-width="9"/>
+  <g fill="url(#crystal)" stroke="#a36424" stroke-opacity=".3" stroke-width="4">
+    <path d="m282 394 47-105 70 89-58 63z"/><path d="m350 405 67-148 75 119-77 82z"/><path d="m436 394 66-134 69 113-62 76z"/><path d="m505 408 67-119 63 102-70 66z"/><path d="m327 460 72-93 53 99-69 45z"/><path d="m415 459 73-102 62 105-74 47z"/><path d="m500 461 68-86 48 78-74 49z"/>
+  </g>
+  <path d="M93 295c105-17 153-105 183-195-101 52-158 118-183 195Z" fill="#496d3e"/><path d="m100 294 153-194" stroke="#82995e" stroke-width="6"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Illustration of a warm cup of gur chai</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fbf4e5"/><stop offset="1" stop-color="#d9be8a"/></linearGradient><linearGradient id="tea" y2="1"><stop stop-color="#bf8050"/><stop offset="1" stop-color="#7b4026"/></linearGradient></defs>
+  <rect width="900" height="700" fill="url(#bg)"/><circle cx="690" cy="142" r="108" fill="#fff9ea" opacity=".5"/>
+  <ellipse cx="448" cy="544" rx="235" ry="46" fill="#67451f" opacity=".17"/>
+  <path d="M252 290h337v177c0 100-66 151-168 151s-169-51-169-151V290Z" fill="#fffaf0" stroke="#c7b184" stroke-width="10"/>
+  <ellipse cx="420" cy="293" rx="168" ry="49" fill="#e1cfaa"/><ellipse cx="420" cy="292" rx="147" ry="35" fill="url(#tea)"/>
+  <path d="M589 342h51c79 0 89 108 18 143-24 12-48 12-70 6" fill="none" stroke="#c7b184" stroke-width="27"/>
+  <path d="M349 248c-32-35 22-53-4-89M421 244c-31-39 25-53-3-89M489 250c-27-33 20-48-2-76" fill="none" stroke="#fffdf3" stroke-width="10" stroke-linecap="round" opacity=".8"/>
+  <path d="M94 295c108-24 154-110 181-198-101 54-159 120-181 198Z" fill="#496d3e"/><path d="m102 295 153-198" stroke="#82995e" stroke-width="6"/>
+</svg>

@@ -1,0 +1,62 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="leafGreen" x1="138" y1="100" x2="680" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3A9B5D"/>
+      <stop offset="1" stop-color="#1E6A3F"/>
+    </linearGradient>
+    <linearGradient id="goldTint" x1="210" y1="180" x2="590" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6C86E"/>
+      <stop offset="1" stop-color="#D68A29"/>
+    </linearGradient>
+    <linearGradient id="creamFill" x1="180" y1="180" x2="610" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDF9"/>
+      <stop offset="1" stop-color="#F1E7D9"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="400" cy="400" r="310" fill="url(#leafGreen)"/>
+
+  <g opacity="0.26">
+    <path d="M180 300C248 268 305 268 367 309C423 347 454 403 481 475C514 560 560 602 639 626" stroke="#DDAF48" stroke-width="18" stroke-linecap="round"/>
+    <path d="M185 432C242 387 306 372 372 395C442 419 496 474 540 557C572 614 598 640 650 662" stroke="#DDAF48" stroke-width="18" stroke-linecap="round"/>
+    <path d="M216 564C280 517 327 500 381 513C436 527 494 571 540 632" stroke="#DDAF48" stroke-width="18" stroke-linecap="round"/>
+  </g>
+
+  <circle cx="400" cy="400" r="220" fill="url(#creamFill)"/>
+
+  <path d="M410 222C469 245 502 292 503 347C505 400 471 447 420 479C375 508 318 524 278 514C313 467 340 431 354 374C367 322 370 272 410 222Z" fill="#EAB366" opacity="0.78"/>
+
+  <g>
+    <path d="M336 267C382 291 409 325 420 363C431 401 428 447 408 488C387 530 356 562 318 579C277 597 233 595 203 573C228 538 247 501 254 459C260 422 255 381 280 339C294 319 313 290 336 267Z" fill="#F5BAA4" opacity="0.9"/>
+    <path d="M494 261C540 278 566 313 580 349C594 387 596 425 586 460C573 507 541 542 500 565C452 589 395 589 354 570C387 530 412 488 421 443C432 392 429 344 455 305C467 288 479 274 494 261Z" fill="#DA6A8E" opacity="0.82"/>
+  </g>
+
+  <g>
+    <path d="M329 383C361 346 412 331 456 346C497 360 529 398 532 442C536 494 503 541 455 567C410 593 350 592 311 563C277 537 258 490 269 441C276 412 295 405 329 383Z" fill="#E44386" opacity="0.85"/>
+    <path d="M288 512C321 484 358 462 399 466C444 470 479 499 491 541C504 589 483 640 440 671C397 701 333 710 291 679C257 654 233 611 240 571C246 544 261 524 288 512Z" fill="#F1B9C7" opacity="0.8"/>
+    <path d="M402 465C440 458 478 476 497 507C525 556 503 622 451 657C404 688 334 691 287 659C249 633 228 589 239 548C251 500 294 470 350 460C367 457 385 459 402 465Z" fill="#7BB7B0" opacity="0.82"/>
+  </g>
+
+  <g>
+    <circle cx="477" cy="309" r="32" fill="#E5A0B3"/>
+    <path d="M470 259C491 259 514 279 526 302C536 320 537 340 533 359C524 400 486 424 454 415C424 407 404 373 406 338C408 307 430 282 470 259Z" fill="#F6D8D6"/>
+    <path d="M515 388C585 395 623 428 640 474C653 510 651 567 628 606C608 640 575 665 535 679C501 691 456 692 426 676C483 633 505 597 513 543C518 510 515 455 515 388Z" fill="#7AB0B6" opacity="0.88"/>
+  </g>
+
+  <g>
+    <path d="M500 604C552 620 591 671 596 721C602 775 571 830 514 856C470 876 408 875 367 853C321 830 290 780 298 732C308 670 358 620 429 598C451 590 476 594 500 604Z" fill="#F1B37A" opacity="0.72"/>
+    <path d="M312 613C329 574 371 547 412 551C446 554 476 570 495 594C511 615 522 640 527 670C533 708 522 747 498 774C469 808 420 826 371 819C326 812 283 784 267 743C255 711 257 666 280 635C289 623 299 617 312 613Z" fill="#9CC8C9" opacity="0.8"/>
+  </g>
+
+  <g>
+    <path d="M460 180C464 152 485 131 512 129C545 127 569 157 572 190C574 214 566 237 546 253C529 267 505 277 481 274C450 270 429 244 430 214C431 202 438 191 460 180Z" fill="#F7F1E7"/>
+    <path d="M462 137C472 115 494 96 520 92C556 87 592 97 613 117C627 130 635 145 637 166C638 193 620 212 592 221C570 228 542 229 516 220C489 210 468 192 462 137Z" fill="#F7F1E7"/>
+    <path d="M505 118C511 138 516 154 531 178C549 205 563 233 582 266" stroke="#E8C368" stroke-width="14" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <text x="400" y="382" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="2" fill="#3D472F">SUGARCANE</text>
+    <text x="400" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="118" font-weight="700" fill="#70341C">JAGGERY</text>
+    <text x="400" y="532" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" letter-spacing="4" fill="#4A4A42">NATURAL SWEETENER</text>
+  </g>
+</svg>

@@ -1,0 +1,74 @@
+<svg width="1400" height="800" viewBox="0 0 1400 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="greenVibe" x1="60" y1="50" x2="720" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3BA264"/>
+      <stop offset="1" stop-color="#1D6C40"/>
+    </linearGradient>
+    <linearGradient id="goldVibe" x1="180" y1="120" x2="560" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8CB6B"/>
+      <stop offset="1" stop-color="#D9892E"/>
+    </linearGradient>
+    <linearGradient id="creamVibe" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFDF8"/>
+      <stop offset="1" stop-color="#F0E7D9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="800" fill="#F6F0E8"/>
+
+  <g transform="translate(70 60)">
+    <circle cx="270" cy="340" r="255" fill="url(#greenVibe)"/>
+    <circle cx="270" cy="340" r="180" fill="url(#creamVibe)"/>
+
+    <g opacity="0.2">
+      <path d="M117 287C164 256 214 252 261 279C309 306 350 355 376 415C399 468 424 505 488 529" stroke="#D39A39" stroke-width="16" stroke-linecap="round"/>
+      <path d="M120 397C170 364 220 355 273 370C325 386 376 421 416 484C442 521 467 546 510 564" stroke="#D39A39" stroke-width="16" stroke-linecap="round"/>
+      <path d="M146 489C194 463 249 457 297 471C353 488 392 525 431 574" stroke="#D39A39" stroke-width="16" stroke-linecap="round"/>
+    </g>
+
+    <path d="M210 218C247 236 274 273 280 316C288 365 271 412 236 447C205 480 163 499 125 498C151 454 170 425 184 376C199 319 203 268 210 218Z" fill="#F2B65E" opacity="0.84"/>
+
+    <g>
+      <path d="M206 273C235 246 275 234 313 247C357 262 393 302 401 349C410 402 388 445 350 479C315 509 268 521 226 506C186 492 152 460 137 420C120 375 123 323 147 287C164 264 180 263 206 273Z" fill="#E34183" opacity="0.8"/>
+      <path d="M160 429C187 404 221 385 257 390C292 395 328 421 341 457C355 497 348 548 321 581C292 617 241 633 198 620C161 608 127 577 116 537C104 496 115 455 160 429Z" fill="#F0B7C8" opacity="0.82"/>
+    </g>
+
+    <g>
+      <circle cx="314" cy="261" r="27" fill="#E7A6B9"/>
+      <path d="M300 224C317 207 342 205 361 216C381 227 394 249 395 274C395 306 374 328 347 336C316 346 285 337 267 311C251 288 254 255 273 238C280 231 286 228 300 224Z" fill="#F9D9D9"/>
+      <path d="M352 359C390 363 421 381 437 412C452 441 454 485 437 518C422 548 389 565 354 573C318 581 275 573 247 548C290 510 313 473 322 421C327 396 333 374 352 359Z" fill="#74B6BA" opacity="0.82"/>
+    </g>
+
+    <g>
+      <path d="M319 494C352 496 381 515 397 546C415 582 409 633 378 669C346 705 292 714 253 688C213 661 192 614 199 570C206 527 238 496 319 494Z" fill="#F1B371" opacity="0.7"/>
+      <path d="M194 475C214 447 247 430 280 435C318 441 352 467 366 501C381 537 375 590 349 620C321 652 270 666 229 652C193 640 156 601 148 560C139 514 160 500 194 475Z" fill="#9CC6C9" opacity="0.8"/>
+    </g>
+
+    <g>
+      <text x="270" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="2" fill="#3F4935">SUGARCANE</text>
+      <text x="270" y="390" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="84" font-weight="700" fill="#6F3519">JAGGERY</text>
+      <text x="270" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="4" fill="#40443E">NATURAL SWEETENER</text>
+    </g>
+  </g>
+
+  <g transform="translate(720 130)">
+    <circle cx="210" cy="260" r="188" fill="url(#greenVibe)"/>
+    <circle cx="210" cy="260" r="128" fill="url(#creamVibe)"/>
+    <path d="M135 164C159 144 188 139 214 152C245 167 270 201 274 235C279 279 256 319 219 344C182 370 132 375 102 353C126 319 144 285 149 248C153 221 148 186 135 164Z" fill="#F0B963" opacity="0.82"/>
+    <g>
+      <path d="M125 173C151 147 187 136 217 143C245 150 272 171 282 199C291 227 286 261 262 287C236 315 201 333 167 331C136 330 109 312 95 285C82 259 84 227 100 203C107 192 113 182 125 173Z" fill="#E54488" opacity="0.8"/>
+      <path d="M101 268C126 247 157 237 188 243C220 250 248 275 260 308C274 346 263 389 234 416C205 443 159 454 122 440C88 427 57 394 50 356C42 316 62 281 101 268Z" fill="#F1B7C7" opacity="0.8"/>
+    </g>
+    <g>
+      <circle cx="212" cy="178" r="21" fill="#E9A8BA"/>
+      <path d="M204 145C219 131 239 130 255 139C274 148 287 168 288 187C289 214 270 232 246 240C220 249 191 243 175 221C162 202 164 175 184 160C189 156 194 152 204 145Z" fill="#F7D8D8"/>
+      <path d="M240 257C276 263 308 282 321 313C334 342 332 381 316 412C299 444 266 466 230 475C169 489 108 462 88 409C69 357 87 298 133 270C162 249 199 246 240 257Z" fill="#7FB5B7" opacity="0.82"/>
+    </g>
+  </g>
+
+  <g transform="translate(935 185)">
+    <text x="0" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" fill="#1F6A3B">DESI MARKET</text>
+    <text x="0" y="156" font-family="Georgia, 'Times New Roman', serif" font-size="120" font-weight="700" fill="#2E2E2E">JAGGERY</text>
+    <text x="0" y="214" font-family="Arial, sans-serif" font-size="26" letter-spacing="3" fill="#4A4944">PURE • NATURAL • HANDMADE</text>
+  </g>
+</svg>

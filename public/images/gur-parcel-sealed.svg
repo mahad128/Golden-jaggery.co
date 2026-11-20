@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">A sealed parcel of fresh gur ready for delivery</title>
+  <defs>
+    <linearGradient id="background" x2="0" y2="1"><stop stop-color="#f8efd9"/><stop offset="1" stop-color="#dfc18d"/></linearGradient>
+    <linearGradient id="front" x2="0" y2="1"><stop stop-color="#d89e56"/><stop offset="1" stop-color="#b87537"/></linearGradient>
+    <linearGradient id="side" x2="0" y2="1"><stop stop-color="#bd7e3e"/><stop offset="1" stop-color="#925c31"/></linearGradient>
+    <linearGradient id="top" x2="0" y2="1"><stop stop-color="#f0c77e"/><stop offset="1" stop-color="#d59b51"/></linearGradient>
+    <linearGradient id="tape" x2="1" y2=".2"><stop stop-color="#f5dc9e"/><stop offset=".5" stop-color="#fff0bd"/><stop offset="1" stop-color="#d7b46b"/></linearGradient>
+    <filter id="shadow" x="-.3" y="-.4" width="1.6" height="1.8"><feGaussianBlur stdDeviation="11"/></filter>
+  </defs>
+  <rect width="640" height="420" rx="28" fill="url(#background)"/>
+  <circle cx="506" cy="77" r="58" fill="#fff9e9" opacity=".56"/>
+  <ellipse cx="325" cy="350" rx="177" ry="25" fill="#674821" opacity=".23" filter="url(#shadow)"/>
+  <path d="m151 175 164-84 190 81-166 87z" fill="url(#top)" stroke="#9a6332" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m151 175 188 84v147l-188-92z" fill="url(#front)" stroke="#89572e" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m339 259 166-87v148l-166 86z" fill="url(#side)" stroke="#80512d" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m297 101 19-10 42 167-20 1z" fill="url(#tape)" stroke="#b48b50" stroke-width="2"/>
+  <path d="m319 249 20 10v147l-20-10z" fill="url(#tape)" opacity=".96"/>
+  <path d="m209 221 82 37v71l-82-40z" fill="#f3e5c4" stroke="#bd9360" stroke-width="3"/>
+  <path d="m225 237 49 23v8l-49-23zm0 18 37 17v7l-37-17z" fill="#927044" opacity=".68"/>
+  <path d="m226 289 48 22v-20l-48-23z" fill="#4a6b2a" opacity=".9"/>
+  <path d="m233 276 31 15" stroke="#f7edda" stroke-linecap="round" stroke-width="3"/>
+  <path d="m441 236 35-18v51l-35 18z" fill="#f4e3bf" opacity=".92"/>
+  <path d="m448 243 20-10m-20 19 20-10m-20 20 13-7" stroke="#97704a" stroke-linecap="round" stroke-width="3"/>
+  <path d="m177 187 162 72 153-80" fill="none" stroke="#fff0c4" stroke-linecap="round" stroke-width="4" opacity=".56"/>
+  <path d="m339 259v147" stroke="#87542d" stroke-width="3" opacity=".4"/>
+  <path d="m193 197 1 129m290-139-1 116" stroke="#f3d09a" stroke-width="3" opacity=".38"/>
+</svg>

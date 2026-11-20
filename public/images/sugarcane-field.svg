@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title">
+  <title id="title">Illustration of a sugarcane field at harvest</title>
+  <defs><linearGradient id="sky" y2="1"><stop stop-color="#f9edcf"/><stop offset="1" stop-color="#d9b66f"/></linearGradient><linearGradient id="field" y2="1"><stop stop-color="#7e974f"/><stop offset="1" stop-color="#2f4a2a"/></linearGradient></defs>
+  <rect width="1200" height="700" fill="url(#sky)"/><circle cx="895" cy="167" r="90" fill="#fff6da" opacity=".75"/><path d="M0 462c240-92 440-67 620-10s363 52 580-20v268H0Z" fill="url(#field)"/>
+  <g stroke="#55783e" stroke-width="13" stroke-linecap="round"><path d="M139 635 169 214"/><path d="M331 657 319 176"/><path d="M528 674 512 235"/><path d="M728 668 745 150"/><path d="M950 668 930 209"/><path d="M1087 677 1085 260"/></g>
+  <g fill="#47713a"><path d="M169 357c-84-79-107-166-84-252 74 75 101 155 84 252Z"/><path d="M169 336c79-89 99-174 68-251-67 80-87 162-68 251Z"/><path d="M319 325c-80-86-97-169-64-248 68 78 87 159 64 248Z"/><path d="M319 293c79-90 96-174 62-250-67 81-85 163-62 250Z"/><path d="M745 320c-76-88-89-173-54-248 65 80 80 163 54 248Z"/><path d="M745 292c82-85 103-168 73-249-71 76-95 157-73 249Z"/></g>
+  <g stroke="#9bb175" stroke-width="4" opacity=".65"><path d="m169 357-84-252"/><path d="m169 336 68-251"/><path d="m319 325-64-248"/><path d="m319 293 62-250"/></g>
+</svg>

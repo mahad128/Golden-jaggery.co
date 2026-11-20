@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" role="img" aria-labelledby="title">
+  <title id="title">Golden gur block illustration on a transparent background</title>
+  <defs>
+    <linearGradient id="top" x2=".8" y2="1">
+      <stop stop-color="#f6d88e"/>
+      <stop offset="1" stop-color="#d39437"/>
+    </linearGradient>
+    <linearGradient id="side" x2="0" y2="1">
+      <stop stop-color="#c7802b"/>
+      <stop offset="1" stop-color="#8f4e1f"/>
+    </linearGradient>
+    <filter id="shadow" x="-.25" y="-.4" width="1.5" height="1.8">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+  </defs>
+  <ellipse cx="321" cy="447" rx="190" ry="27" fill="#322414" opacity=".22" filter="url(#shadow)"/>
+  <g stroke="#8c4d1f" stroke-opacity=".38" stroke-width="5" stroke-linejoin="round">
+    <path d="m122 219 197-78 207 73-205 83z" fill="url(#top)"/>
+    <path d="m122 219 199 78v143l-199-79z" fill="url(#side)"/>
+    <path d="m321 297 205-83v146l-205 80z" fill="#a65f24"/>
+    <path d="m218 142 154-61 168 60-161 64z" fill="#f3d28a"/>
+    <path d="m218 142 161 63v124l-161-63z" fill="#d08b34"/>
+    <path d="m379 205 161-64v126l-161 62z" fill="url(#side)"/>
+  </g>
+  <g fill="#4a6b2a" opacity=".92">
+    <path d="M92 235c61-63 85-126 77-190 50 61 48 124-77 190Z"/>
+    <path d="M95 237c-19-74-7-137 36-184 16 70 6 132-36 184Z"/>
+  </g>
+  <g fill="none" stroke="#90a36c" stroke-linecap="round" stroke-width="5">
+    <path d="m93 235 76-190"/>
+    <path d="m95 237 36-184"/>
+  </g>
+</svg>

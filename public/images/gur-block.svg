@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Illustration of golden gur blocks</title>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f8efd9"/><stop offset="1" stop-color="#dfc18d"/></linearGradient>
+    <linearGradient id="gur" x2=".8" y2="1"><stop stop-color="#e6ad4d"/><stop offset=".55" stop-color="#bf7627"/><stop offset="1" stop-color="#8f4e1f"/></linearGradient>
+    <filter id="shadow" x="-.3" y="-.3" width="1.7" height="1.8"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="690" cy="150" r="115" fill="#fff9e9" opacity=".5"/>
+  <ellipse cx="457" cy="540" rx="255" ry="48" fill="#71491f" opacity=".22" filter="url(#shadow)"/>
+  <g stroke="#8c4d1f" stroke-opacity=".35" stroke-width="5" stroke-linejoin="round">
+    <path d="m215 345 267-97 254 86-269 103z" fill="#edc26c"/>
+    <path d="m215 345 252 92v179l-252-101z" fill="url(#gur)"/>
+    <path d="m467 437 269-103v177L467 616z" fill="#9d5a25"/>
+    <path d="m359 260 219-79 215 72-222 81z" fill="#f1ca78"/>
+    <path d="m359 260 212 74v153l-212-76z" fill="#c98632"/>
+    <path d="m571 334 222-81v150l-222 84z" fill="url(#gur)"/>
+  </g>
+  <g fill="#426238" opacity=".9"><path d="M92 310c117-27 159-124 180-215-102 59-154 131-180 215Z"/><path d="M109 314c-20-105-2-194 40-258 36 96 24 179-40 258Z"/><path d="M766 258c29-97 88-153 159-183-25 91-75 151-159 183Z"/></g>
+  <g stroke="#78915a" stroke-width="5" fill="none" opacity=".8"><path d="M100 310 234 110"/><path d="m110 314 40-258"/><path d="m766 258 145-183"/></g>
+</svg>

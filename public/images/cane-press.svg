@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Traditional sugarcane press making fresh juice</title>
+  <defs>
+    <linearGradient id="background" x2="0" y2="1"><stop stop-color="#f8efd9"/><stop offset="1" stop-color="#dfc18d"/></linearGradient>
+    <linearGradient id="metal" x2="1" y2=".2"><stop stop-color="#506b38"/><stop offset=".48" stop-color="#78964b"/><stop offset="1" stop-color="#3d572d"/></linearGradient>
+    <linearGradient id="roller" x2="1" y2=".3"><stop stop-color="#ad6b2b"/><stop offset=".4" stop-color="#e0aa55"/><stop offset=".7" stop-color="#bc7b35"/><stop offset="1" stop-color="#8e5426"/></linearGradient>
+    <linearGradient id="juice" x2="0" y2="1"><stop stop-color="#f5d875"/><stop offset="1" stop-color="#c99432"/></linearGradient>
+    <linearGradient id="cane" x2="0" y2="1"><stop stop-color="#c6d47b"/><stop offset=".5" stop-color="#6f9143"/><stop offset="1" stop-color="#456537"/></linearGradient>
+    <filter id="shadow" x="-.3" y="-.4" width="1.6" height="1.8"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+  <rect width="640" height="420" rx="28" fill="url(#background)"/>
+  <circle cx="500" cy="72" r="52" fill="#fff9e9" opacity=".55"/>
+  <ellipse cx="321" cy="353" rx="218" ry="28" fill="#674821" opacity=".22" filter="url(#shadow)"/>
+  <path d="m101 288 214-107 224 105-218 112z" fill="#8a6030"/>
+  <path d="m101 288 220 110v28L101 315z" fill="#684523"/>
+  <path d="m321 398 218-112v29L321 426z" fill="#563b20"/>
+  <path d="m137 280 178-87 181 85-175 91z" fill="#d2a35a"/>
+  <path d="m173 277 151-74 152 72-150 77z" fill="#614827"/>
+  <g stroke="#456334" stroke-linecap="round">
+    <path d="m60 203 161 76m-143-98 163 77m-179-53 164 78" stroke="url(#cane)" stroke-width="15"/>
+    <path d="m102 215 5-12m43 32 5-13m48 33 5-13m-115-60 5-12m44 32 5-13m47 33 5-13" stroke="#d7dd94" stroke-width="3"/>
+  </g>
+  <g>
+    <path d="m251 113 37-19 25 12v161l-39 20-23-12z" fill="#394f2e"/>
+    <path d="m288 94 123 58v162l-123-27z" fill="url(#metal)"/>
+    <path d="m411 152 36-19v161l-36 20z" fill="#354a2c"/>
+    <path d="m288 94 36-20 123 59-36 19z" fill="#a5b66e"/>
+    <path d="m301 112 106 50v17l-106-50z" fill="#d7d69a" opacity=".5"/>
+    <path d="m303 247 104 24v18l-104-22z" fill="#293d26" opacity=".45"/>
+    <rect x="305" y="156" width="81" height="99" rx="38" fill="url(#roller)" stroke="#754a28" stroke-width="5"/>
+    <ellipse cx="345.5" cy="160" rx="40.5" ry="14" fill="#efc775" stroke="#9e662e" stroke-width="4"/>
+    <path d="M317 164v79m14-84v89m28-88v86m13-80v73" stroke="#ffe0a0" stroke-linecap="round" stroke-width="3" opacity=".55"/>
+    <circle cx="346" cy="159" r="8" fill="#81512c"/>
+    <path d="m270 152-26-13v36l26 12zm0 69-26-12v35l26 12z" fill="#d5aa5e"/>
+    <circle cx="257" cy="157" r="7" fill="#5b452d"/>
+    <circle cx="257" cy="226" r="7" fill="#5b452d"/>
+  </g>
+  <path d="M354 270c0 25 24 26 24 47" fill="none" stroke="#d7a640" stroke-linecap="round" stroke-width="8"/>
+  <path d="m366 319 1 32m14-30 1 27" stroke="#d7a640" stroke-linecap="round" stroke-width="5" opacity=".8"/>
+  <path d="m342 321 48-1-8 39q-17 13-34 0z" fill="#f1dfaa" fill-opacity=".72" stroke="#8c693b" stroke-width="4"/>
+  <path d="m345 337 42-1-5 22q-16 10-32 0z" fill="url(#juice)"/>
+  <path d="m352 324 29-1" stroke="#fff9e4" stroke-linecap="round" stroke-width="4" opacity=".8"/>
+  <path d="m347 360 35-1-4 9h-27z" fill="#835b31"/>
+  <path d="m464 201 36-18m-29 34 27-14" stroke="#fff4d8" stroke-linecap="round" stroke-width="5" opacity=".55"/>
+</svg>

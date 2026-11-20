@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Golden gur slowly cooking in a traditional open pan</title>
+  <defs>
+    <linearGradient id="background" x2="0" y2="1"><stop stop-color="#f8efd9"/><stop offset="1" stop-color="#dfc18d"/></linearGradient>
+    <linearGradient id="pan" x2="0" y2="1"><stop stop-color="#6e7470"/><stop offset=".45" stop-color="#353d3c"/><stop offset="1" stop-color="#202927"/></linearGradient>
+    <linearGradient id="golden-gur" x2=".2" y2="1"><stop stop-color="#f2d47b"/><stop offset=".5" stop-color="#d99b37"/><stop offset="1" stop-color="#9d5a25"/></linearGradient>
+    <linearGradient id="paddle" x2="1" y2=".2"><stop stop-color="#8f5a2c"/><stop offset=".5" stop-color="#c18a4a"/><stop offset="1" stop-color="#704422"/></linearGradient>
+    <filter id="shadow" x="-.3" y="-.4" width="1.6" height="1.8"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+  <rect width="640" height="420" rx="28" fill="url(#background)"/>
+  <circle cx="500" cy="72" r="52" fill="#fff9e9" opacity=".55"/>
+  <ellipse cx="320" cy="358" rx="212" ry="25" fill="#674821" opacity=".24" filter="url(#shadow)"/>
+  <path d="m155 320 48-36h238l47 36-31 34H185z" fill="#684523"/>
+  <path d="m194 316 19-16h220l20 16-18 14H211z" fill="#38352c"/>
+  <path d="m320 305 16-180 20 3-13 182z" fill="url(#paddle)" stroke="#754622" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m339 124 17 2 3 49-20-4z" fill="#d4a25d"/>
+  <path d="m320 304 23 3 28 24-66 3z" fill="url(#paddle)" stroke="#754622" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m124 203 48-19h297l49 19-25 113q-171 67-344 0z" fill="url(#pan)" stroke="#272d2b" stroke-width="5"/>
+  <path d="m150 208 43-12h253l43 12-20 90q-150 50-300 0z" fill="url(#golden-gur)"/>
+  <ellipse cx="320" cy="204" rx="196" ry="33" fill="#4a514c" stroke="#262c2a" stroke-width="6"/>
+  <ellipse cx="320" cy="204" rx="170" ry="21" fill="url(#golden-gur)"/>
+  <path d="M221 203c33-15 64-12 97 0s65 14 102 0m-147 11c23 8 50 9 74 1m-21-19c23-7 47-7 72 2" fill="none" stroke="#ffe29a" stroke-linecap="round" stroke-width="5" opacity=".68"/>
+  <path d="m127 205-38-11m426 13 37-13" stroke="#404541" stroke-linecap="round" stroke-width="15"/>
+  <path d="M245 142c-12-16 13-21 1-39m65 35c-12-16 13-21 1-39m66 39c-12-16 13-21 1-39" fill="none" stroke="#fff9e8" stroke-linecap="round" stroke-width="5" opacity=".76"/>
+  <path d="m176 225 11 63m278-62-10 63" stroke="#adb0a4" stroke-linecap="round" stroke-width="3" opacity=".45"/>
+  <path d="M253 334c-23-20-16-37-2-48 5 18 20 19 13 40 18-14 15-28 25-41 13 19 7 37-6 51 24-9 24-25 34-40 12 20 4 38-15 51h-34z" fill="#d8792b"/>
+  <path d="M275 332c-10-12-5-23 4-34 7 13 12 20 5 33 12-9 12-20 19-29 8 15 1 27-9 36z" fill="#f3c45f"/>
+  <path d="m461 133 36-18m-29 36 25-13" stroke="#fff4d8" stroke-linecap="round" stroke-width="5" opacity=".55"/>
+</svg>
